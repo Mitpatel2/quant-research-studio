@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env*
+.DS_Store
+data/local-futures.csv
+data/databento/
+reports/
+*.db
+*.sqlite*
